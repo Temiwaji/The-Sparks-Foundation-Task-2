@@ -5,3 +5,4 @@ Task- Prediction using unsupervised machine learning. The aim of  the task is to
 For K-means clustering, the elbow method was used. The optimum number of clusters identified was 3. 
 Data points points were visualized in different clusters with 3 different colours.
 Matplotlib was used to visualize the data.
+IDE used; Jupiter Notebook
